@@ -4,7 +4,7 @@ import os
 # -------------------------------
 # User Data File
 # -------------------------------
-USER_DATA_FILE = "users.txt"
+USER_DATA_FILE = "DATA/users.txt"
 
 
 # -------------------------------
